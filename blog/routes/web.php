@@ -25,7 +25,8 @@ Route::get('/posts/{post}', function ($slug) {
 
 
     if(! file_exists($path)) {
-        dd("file nix da");
+        return redirect("/");
+        //dd("file nix da");
     }
 
     $post = file_get_contents($path);
