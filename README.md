@@ -6,3 +6,6 @@ Laravel 8 from Scratch Tutorial for POS (HTL Imst)
 1. rename ```.env.example``` to ```.env```
 2. run ```php artisan key:generate```
 3. run ```php artisan serve```
+
+# used libraries
+* [yaml-front-matter](https://github.com/spatie/yaml-front-matter)
