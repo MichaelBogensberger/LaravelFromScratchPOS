@@ -20,6 +20,13 @@ Fatal error: require(): Failed opening required 'D:\dev\FSE\LaravelFromScratchPO
 2. run ```php artisan key:generate```
 3. run ```php artisan serve```
 
+## Tip
+you may have to run following two commands
+```
+composer update
+composer install
+```
+
 
 # used libraries
 * [yaml-front-matter](https://github.com/spatie/yaml-front-matter)
