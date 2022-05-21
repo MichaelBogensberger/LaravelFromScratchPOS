@@ -28,7 +28,7 @@ composer install
 ```
 
 
-# used libraries
+# used libraries & plugins
 * [yaml-front-matter](https://github.com/spatie/yaml-front-matter)
 * [clockwork](https://github.com/itsgoingd/clockwork)
 
